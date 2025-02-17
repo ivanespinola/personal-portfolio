@@ -1,0 +1,251 @@
+{
+  "basics": {
+    "name": "Ivan Espinola",
+    "label": "Web Developer",
+    "image": "/me.webp",
+    "email": "ivan.espi.martinez@gmail.com",
+    "phone": "",
+    "url": "",
+    "summary": "Welcome to my portfolio",
+    "location": {
+      "address": "",
+      "postalCode": "08303",
+      "city": "Mataró, Barcelona",
+      "countryCode": "ES",
+      "region": "Spain"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "ivanespinola",
+        "url": "https://linkedin.com/in/ivan-espinola-martinez"
+      },
+
+      {
+        "network": "GitHub",
+        "username": "ivanespinola",
+        "url": "https://github.com/ivanespinola"
+      }
+    ]
+  },
+  "work": [
+    {
+      "name": "Pyming",
+      "position": "Odoo developer",
+      "url": "https://pyming.com/",
+      "startDate": "October 2022",
+      "endDate": "March 2023",
+      "summary": "I worked on developing and customizing business solutions with Odoo, creating new modules and features using Python. I was actively involved in troubleshooting and optimizing performance, analyzing code, and debugging issues. Additionally, I documented processes and the solutions I implemented to ensure clarity and continuity.",
+      "highlights": ["Odoo", "Python", "Docker"]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2003-01-01",
+      "endDate": "2009-01-01",
+      "score": "4.0",
+      "courses": ["DB1101 - Basic SQL"]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Certificate",
+      "date": "2021-11-07",
+      "issuer": "Company",
+      "url": "https://certificate.com"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
+  "skills": [
+    {
+      "name": "HTML",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend"]
+    },
+    {
+      "name": "CSS",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
+    },
+    {
+      "name": "JavaScript",
+      "level": "Master",
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
+    },
+    {
+      "name": "Tailwind",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "CSS Framework",
+        "Diseño Responsive"
+      ]
+    },
+    {
+      "name": "TypeScript",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
+      ]
+    },
+    {
+      "name": "Node",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
+    },
+    {
+      "name": "MySQL",
+      "level": "Avanzado",
+      "keywords": [
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
+      ]
+    },
+    {
+      "name": "Git",
+      "level": "Avanzado",
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
+    },
+    {
+      "name": "GitHub",
+      "level": "Avanzado",
+      "keywords": [
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
+      ]
+    },
+    {
+      "name": "Next.js",
+      "level": "Avanzado",
+      "keywords": [
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
+      ]
+    },
+    {
+      "name": "React",
+      "level": "Avanzado",
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Spanish",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Advanced"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
+  "projects": [
+    {
+      "name": "Python mini games",
+      "isActive": true,
+      "description": "Simple mini games to practice with python.",
+      "highlights": ["Python", "Pygame", "Tkinter"],
+      "github": "https://github.com/ivanespinola/python-mini-projects"
+    },
+    {
+      "name": "Todo list",
+      "isActive": true,
+      "description": "Application that allows users to add, complete, and delete tasks with a simple and intuitive interface.",
+      "highlights": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "AutoAnimate",
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://todo-list-ts-woad.vercel.app/",
+      "github": "https://github.com/ivanespinola/todo-list-ts"
+    },
+    {
+      "name": "JavaScript Quiz",
+      "isActive": true,
+      "description": " Application that allows users to take quizzes about JavaScript.",
+      "highlights": [
+        "React",
+        "TypeScript",
+        "JavaScript",
+        "Material-UI",
+        "Zustand",
+        "Framer Motion",
+        "HTML",
+        "CSS"
+      ],
+      "url": "https://javascript-quiz-one.vercel.app/",
+      "github": "https://github.com/ivanespinola/javascript-quiz"
+    },
+    {
+      "name": "Local AI chat",
+      "isActive": true,
+      "description": "This is a simple project that uses JavaScript to create a local AI chat that runs in the browser.",
+      "highlights": ["JavaScript", "HTML", "CSS"],
+      "url": "https://local-ai-chat.vercel.app/",
+      "github": "https://github.com/ivanespinola/local-ai-chat"
+    },
+    {
+      "name": "Sounddy",
+      "isActive": true,
+      "description": "This karaoke web app lets you sing along to your favorite songs in a fun and easy way.",
+      "highlights": ["React", "JavaScript", "HTML", "CSS"],
+      "github": "https://github.com/ivanespinola/sounddy-karaoke-react"
+    }
+  ]
+}
