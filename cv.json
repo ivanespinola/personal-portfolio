@@ -254,6 +254,14 @@
       "highlights": ["JavaScript", "HTML", "CSS"],
       "url": "https://typewriter-chi.vercel.app/",
       "github": "https://github.com/ivanespinola/js-typewriter-effect"
+    },
+    {
+      "name": "Typing Game",
+      "isActive": true,
+      "description": "A simple and fun typing game to improve your typing speed and accuracy.",
+      "highlights": ["JavaScript", "HTML", "CSS"],
+      "url": "https://js-typing-game-two.vercel.app/",
+      "github": "https://github.com/ivanespinola/js-typing-game"
     }
   ]
 }
