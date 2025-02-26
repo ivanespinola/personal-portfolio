@@ -262,6 +262,14 @@
       "highlights": ["JavaScript", "HTML", "CSS"],
       "url": "https://js-typing-game-two.vercel.app/",
       "github": "https://github.com/ivanespinola/js-typing-game"
+    },
+    {
+      "name": "Paint JS",
+      "isActive": true,
+      "description": "This project is a simple web-based drawing application inspired by classic paint in Windows 95.",
+      "highlights": ["JavaScript", "HTML", "CSS"],
+      "url": "https://js-paint-nu.vercel.app/",
+      "github": "https://github.com/ivanespinola/js-paint"
     }
   ]
 }
