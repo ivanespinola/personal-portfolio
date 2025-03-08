@@ -194,13 +194,6 @@
   ],
   "projects": [
     {
-      "name": "Python mini games",
-      "isActive": true,
-      "description": "Simple mini games to practice with python.",
-      "highlights": ["Python", "Pygame", "Tkinter"],
-      "github": "https://github.com/ivanespinola/python-mini-projects"
-    },
-    {
       "name": "Todo list",
       "isActive": true,
       "description": "Application that allows users to add, complete, and delete tasks with a simple and intuitive interface.",
@@ -239,13 +232,6 @@
       "highlights": ["JavaScript", "HTML", "CSS"],
       "url": "https://local-ai-chat.vercel.app/",
       "github": "https://github.com/ivanespinola/local-ai-chat"
-    },
-    {
-      "name": "Sounddy",
-      "isActive": true,
-      "description": "This karaoke web app lets you sing along to your favorite songs in a fun and easy way.",
-      "highlights": ["React", "JavaScript", "HTML", "CSS"],
-      "github": "https://github.com/ivanespinola/sounddy-karaoke-react"
     },
     {
       "name": "Typewriter Effect",
