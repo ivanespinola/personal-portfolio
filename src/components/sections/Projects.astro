@@ -51,25 +51,26 @@ import { projects } from "@cv"
   
   h2{
     color: #dfe0e2;
-    margin-bottom: 12px;
+    margin-bottom: 10px;
   }
   ul {
-    display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    display: flex;
+    flex-direction: column;
+    /* grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); */
     gap: 1rem;
-    margin-inline: -16px;
+    margin-inline: 0;
     align-items: stretch;
   }
 
   article {
     border-radius: 8px;
     border: 1px solid #dfe0e2;
-    gap: 16px;
+    gap: 10px;
     display: flex;
     flex-direction: column;
-    padding: 16px;
+    padding: 12px;
     /* height: 100%; */
-    min-height: 190px;
+    min-height: 115px;
   }
 
   article header {
@@ -89,7 +90,7 @@ import { projects } from "@cv"
   }
 
   article p {
-    font-size: 0.8rem;
+    font-size: 14px;
     line-height: 1.2rem;
     margin-bottom: 4px;
   }
@@ -113,7 +114,7 @@ import { projects } from "@cv"
     border-radius: 6px;
     background: #ffffff;
     color: #595960;
-    font-size: 0.68rem;
+    font-size: 12px;
     font-weight: 500;
     padding: 0.2rem 0.6rem;
   }

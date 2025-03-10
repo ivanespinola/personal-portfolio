@@ -194,7 +194,24 @@
   ],
   "projects": [
     {
-      "name": "Todo list",
+      "name": "url-shortener",
+      "isActive": true,
+      "description": "Simplify your URLs and share them with ease.",
+      "highlights": [
+        "Nextjs",
+        "TypeScript",
+        "Prisma",
+        "Supabase",
+        "Framer Motion",
+        "HTML",
+        "Tailwind",
+        "Shadcn"
+      ],
+      "url": "https://url-shortener-two-self.vercel.app/",
+      "github": "https://github.com/ivanespinola/url-shortener"
+    },
+    {
+      "name": "todo-list",
       "isActive": true,
       "description": "Application that allows users to add, complete, and delete tasks with a simple and intuitive interface.",
       "highlights": [
@@ -209,7 +226,7 @@
       "github": "https://github.com/ivanespinola/todo-list-ts"
     },
     {
-      "name": "JavaScript Quiz",
+      "name": "javasript-quiz",
       "isActive": true,
       "description": " Application that allows users to take quizzes about JavaScript.",
       "highlights": [
@@ -225,37 +242,14 @@
       "url": "https://javascript-quiz-one.vercel.app/",
       "github": "https://github.com/ivanespinola/javascript-quiz"
     },
+
     {
-      "name": "Local AI chat",
-      "isActive": true,
-      "description": "This is a simple project that uses JavaScript to create a local AI chat that runs in the browser.",
-      "highlights": ["JavaScript", "HTML", "CSS"],
-      "url": "https://local-ai-chat.vercel.app/",
-      "github": "https://github.com/ivanespinola/local-ai-chat"
-    },
-    {
-      "name": "Typewriter Effect",
-      "isActive": true,
-      "description": "This project is an animation that simulates the effect of a typewriter, displaying phrases one by one with a blinking cursor.",
-      "highlights": ["JavaScript", "HTML", "CSS"],
-      "url": "https://typewriter-chi.vercel.app/",
-      "github": "https://github.com/ivanespinola/js-typewriter-effect"
-    },
-    {
-      "name": "Typing Game",
+      "name": "typing-game",
       "isActive": true,
       "description": "A simple and fun typing game to improve your typing speed and accuracy.",
       "highlights": ["JavaScript", "HTML", "CSS"],
       "url": "https://js-typing-game-two.vercel.app/",
       "github": "https://github.com/ivanespinola/js-typing-game"
-    },
-    {
-      "name": "Paint JS",
-      "isActive": true,
-      "description": "This project is a simple web-based drawing application inspired by classic paint in Windows 95.",
-      "highlights": ["JavaScript", "HTML", "CSS"],
-      "url": "https://js-paint-nu.vercel.app/",
-      "github": "https://github.com/ivanespinola/js-paint"
     }
   ]
 }
