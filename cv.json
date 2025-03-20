@@ -194,6 +194,21 @@
   ],
   "projects": [
     {
+      "name": "background-snippets",
+      "isActive": true,
+      "description": "Ready to use, simply copy and paste into your next project. All snippets crafted with Tailwind CSS.",
+      "highlights": [
+        "Nextjs",
+        "TypeScript",
+        "Sonner",
+        "HTML",
+        "Tailwind",
+        "Shadcn"
+      ],
+      "url": "https://background-snippets-seven.vercel.app/",
+      "github": "https://github.com/ivanespinola/background-snippets"
+    },
+    {
       "name": "url-shortener",
       "isActive": true,
       "description": "Simplify your URLs and share them with ease.",
@@ -241,15 +256,6 @@
       ],
       "url": "https://javascript-quiz-one.vercel.app/",
       "github": "https://github.com/ivanespinola/javascript-quiz"
-    },
-
-    {
-      "name": "typing-game",
-      "isActive": true,
-      "description": "A simple and fun typing game to improve your typing speed and accuracy.",
-      "highlights": ["JavaScript", "HTML", "CSS"],
-      "url": "https://js-typing-game-two.vercel.app/",
-      "github": "https://github.com/ivanespinola/js-typing-game"
     }
   ]
 }
